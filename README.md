@@ -1,4 +1,4 @@
-<img src="img/5eeea355389655_002.gif" width="300" height="" />
+<p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="" height="" /></p>
 
 ## I’m a
 
@@ -19,7 +19,6 @@
 
 ### GitHub Stats
 ![Ko3uHaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko3uHaK&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko3uHaK&layout=compact&theme=radical)
 
