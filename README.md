@@ -17,7 +17,7 @@
 ![VISUALSTUDIO](https://img.shields.io/badge/-VISUAL_STUDIO-122342?style=flat&logo=VISUALSTUDIO&logoColor=violet)
 ![BLENDER3D](https://img.shields.io/badge/-BLENDER_3D-122342?style=flat&logo=BLENDER)
 
-###GitHub Stats
+### GitHub Stats
 ![Ko3uHaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko3uHaK&show_icons=true&theme=radical)
 
 
