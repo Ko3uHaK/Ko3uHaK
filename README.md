@@ -1,7 +1,7 @@
 <p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="100%" height="200" /></p>
 
 ---
-## I’m a
+## 🙋‍♂️ I’m a
 ---
 ### 🚀 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-540a89?style=flat&logo=HTML5)
@@ -19,19 +19,22 @@
 ![BLENDER3D](https://img.shields.io/badge/-BLENDER_3D-540a89?style=flat&logo=BLENDER)
 
 ---
-### 📊 GitHub Stats:
+
+<details>
+<summary>📊 GitHub Stats:</summary>
+ <br/>
+    <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
+  <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko3uhak&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ko3uHaK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+</details>
 
 ---
-### Follow Me:
+### 🔥 Follow Me:
 
 
 ---
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ko3uHaK">
+    <img src="https://komarev.com/ghpvc/?username=Ko3uHaK&color=blueviolet">
 </a>
 <a href="https://github.com/Ko3uHaK?tab=followers"><img src="https://img.shields.io/github/followers/Ko3uHaK?label=Followers&style=social" alt="GitHub Badge"></a>
