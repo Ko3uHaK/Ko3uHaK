@@ -1,7 +1,7 @@
 <p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="100%" height="200" /></p>
 
 ---
-## 🙋‍♂️ I’m a
+#### 🙋‍♂️ I’m a novice front-end developer.
 ---
 <details >
 <summary>🚀 Technologies & Tools:</summary>
@@ -33,7 +33,7 @@
 </details>
 
 ---
-### 🔥 Follow Me:
+##### 🔥 Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-540a89?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aryfdbc)
 [![Instagram](https://img.shields.io/badge/-Instagram-540a89?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-540a89?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/)
@@ -42,7 +42,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-540a89?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
 
 ---
-## ❤ Views and Followers
+#### ❤ Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ko3uHaK&color=blueviolet">
 </a>
