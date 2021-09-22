@@ -3,7 +3,9 @@
 ---
 ## 🙋‍♂️ I’m a
 ---
-### 🚀 Technologies & Tools
+<details >
+<summary>🚀 Technologies & Tools:</summary>
+
 ![HTML](https://img.shields.io/badge/-HTML-540a89?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-540a89?style=flat&logo=CSS3&logoColor=blue)
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-540a89?style=flat&logo=JAVASCRIPT)
@@ -18,6 +20,8 @@
 ![VISUALSTUDIO](https://img.shields.io/badge/-VISUAL_STUDIO-540a89?style=flat&logo=VISUALSTUDIO&logoColor=violet)
 ![BLENDER3D](https://img.shields.io/badge/-BLENDER_3D-540a89?style=flat&logo=BLENDER)
 
+</details>
+
 ---
 
 <details>
@@ -30,7 +34,12 @@
 
 ---
 ### 🔥 Follow Me:
-
+[![Telegram](https://img.shields.io/badge/-Telegram-540a89?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aryfdbc)
+[![Instagram](https://img.shields.io/badge/-Instagram-540a89?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-540a89?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-540a89?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-540a89?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-540a89?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
 
 ---
 ## ❤ Views and Followers
