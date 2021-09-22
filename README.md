@@ -1,12 +1,13 @@
 <p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="100%" height="200" /></p>
 
 ## I’m a
-
-### Technologies & Tools
+---
+### 🚀 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-540a89?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-540a89?style=flat&logo=CSS3&logoColor=blue)
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-540a89?style=flat&logo=JAVASCRIPT)
-![JQUERY](https://img.shields.io/badge/-JQUERY-540a89?style=flat&logo=REACT)
+![JQUERY](https://img.shields.io/badge/-JQUERY-540a89?style=flat&logo=JQUERY&logoColor=pink)
+![REACT](https://img.shields.io/badge/-JQUERY-540a89?style=flat&logo=REACT)
 ![REDUX](https://img.shields.io/badge/-REDUX-540a89?style=flat&logo=REDUX&logoColor=purple)
 ![NODE](https://img.shields.io/badge/-NODE.JS-540a89?style=flat&logo=NODE.JS&logoColor=GREEN)
 ![SQL](https://img.shields.io/badge/-MySQL-540a89?style=flat&logo=mySQL)
@@ -16,10 +17,23 @@
 ![VISUALSTUDIO](https://img.shields.io/badge/-VISUAL_STUDIO-540a89?style=flat&logo=VISUALSTUDIO&logoColor=violet)
 ![BLENDER3D](https://img.shields.io/badge/-BLENDER_3D-540a89?style=flat&logo=BLENDER)
 
-### GitHub Stats:
+---
+### 📊 GitHub Stats:
+<p align="center">
+
 ![Ko3uHaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko3uHaK&show_icons=true&theme=radical&title_color=540a89&icon_color=ff99ff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko3uHaK&layout=compact&theme=radical&title_color=540a89)
 
+</p>
 
+---
 ### Follow Me:
+
+
+---
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ko3uHaK">
+</a>
+<a href="https://github.com/Ko3uHaK?tab=followers"><img src="https://img.shields.io/github/followers/Ko3uHaK?label=Followers&style=social" alt="GitHub Badge"></a>
