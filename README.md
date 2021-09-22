@@ -1,5 +1,6 @@
 <p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="100%" height="200" /></p>
 
+---
 ## I’m a
 ---
 ### 🚀 Technologies & Tools
@@ -19,13 +20,10 @@
 
 ---
 ### 📊 GitHub Stats:
-<p align="center">
-
-![Ko3uHaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko3uHaK&show_icons=true&theme=radical&title_color=540a89&icon_color=ff99ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko3uHaK&layout=compact&theme=radical&title_color=540a89)
-
-</p>
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ko3uHaK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ---
 ### Follow Me:
