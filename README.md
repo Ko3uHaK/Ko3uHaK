@@ -3,6 +3,12 @@
 ---
 #### 🙋‍♂️ I’m a novice front-end developer.
 ---
+### :bomb: Codewars Stats:
+
+<p align="center"><img alt="Ko3uHaK Codewars" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Ko3uHaK&card&customcolor=bg:040F0F_fg:1D1D1F_text:2E96C0_logo:B92F21_stroke:f75402"></p>
+
+
+
 <details >
 <summary>🚀 Technologies & Tools:</summary>
 
@@ -27,8 +33,8 @@
 <details>
 <summary>📊 GitHub Stats:</summary>
  <br/>
-    <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
-  <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko3uhak&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
+    <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Ko3uHaK Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
+  <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Ko3uHaK Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko3uhak&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
   <br/>
 </details>
 
