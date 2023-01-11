@@ -5,7 +5,9 @@
 ---
 ### :bomb: Codewars Stats:
 
-<p align="center">[![codewars](https://www.codewars.com/users/Ko3uHaK/badges/large)](https://www.codewars.com/users/Ko3uHaK)</p>
+[![codewars](https://www.codewars.com/users/Ko3uHaK/badges/large)](https://www.codewars.com/users/Ko3uHaK)
+
+
 ---
 
 
