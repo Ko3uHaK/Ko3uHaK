@@ -26,13 +26,6 @@
 ![BLENDER3D](https://img.shields.io/badge/-BLENDER_3D-540a89?style=flat&logo=BLENDER)
 
 ---
-### <summary>📊 GitHub Stats:</summary> 
- <br/>
-    <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Ko3uHaK Github Stats" src="https://github-readme-stats.vercel.app/api?username=ko3uhak&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
-  <a href="https://github.com/ko3uhak/github-readme-stats"><img alt="Ko3uHaK Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko3uhak&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&title_color=990099&text_color=ff6600&icon_color=ffff00" /></a>
-  <br/>
-
----
 ##### 🔥 Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-540a89?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Daniil_Dev_30)
 [![Instagram](https://img.shields.io/badge/-Instagram-540a89?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/6ery_gomou)
