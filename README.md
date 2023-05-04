@@ -1,4 +1,4 @@
-<p align="center"><img src="img/Gif_Galaxia_en_el_Universo-.gif" width="100%" height="200" /></p>
+<p align="center"><img src="img/samurái.gif" width="100%" height="300" /></p>
 
 ---
 #### 🙋‍♂️ I’m a DevOps engineer.
@@ -14,7 +14,15 @@
  ### <summary>🚀 Technologies & Tools:</summary>
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-540a89?style=flat&logo=PYTHON)
+![BASH](https://img.shields.io/badge/-BASH-540a89?style=flat&logo=LINUX)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-540a89?style=flat&logo=DOCKER)
+![KUBERNETES](https://img.shields.io/badge/-KUBERNETES-540a89?style=flat&logo=KUBERNETES)
+![TERRAFORM](https://img.shields.io/badge/-TERRAFORM-540a89?style=flat&logo=TERRAFORM)
+![ANSIBLE](https://img.shields.io/badge/-ANSIBLE-540a89?style=flat&logo=ANSIBLE)
+![VAGRANT](https://img.shields.io/badge/-VAGRANT-540a89?style=flat&logo=VAGRANT)
+![CI/CD](https://img.shields.io/badge/-CI/CD-540a89?style=flat&logo=CI/CD)
+![NGINX](https://img.shields.io/badge/-NGINX-540a89?style=flat&logo=NGINX)
+![AZURE](https://img.shields.io/badge/-AZURE-540a89?style=flat&logo=MICROSOFT)
 ![LINUX](https://img.shields.io/badge/-LINUX-540a89?style=flat&logo=LINUX)
 ![HTML](https://img.shields.io/badge/-HTML-540a89?style=flat&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-MySQL-540a89?style=flat&logo=mySQL)
